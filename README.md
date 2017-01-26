@@ -15,6 +15,9 @@
 * [Why does Java have transient fields?](http://stackoverflow.com/questions/910374/why-does-java-have-transient-fields)
 * [如何做到招聘要求中的「要有扎实的 Java 基础」](http://blog.jobbole.com/106818/)
 * [StackOverflow: 你没见过的七个最好的Java答案](http://www.rowkey.me/blog/2016/08/03/so-java-7-answers/)
+* [多态在 Java 和 C++ 编程语言中的实现比较](https://www.ibm.com/developerworks/cn/java/j-lo-polymorph/)
+* [详细分析Java中断机制](http://www.infoq.com/cn/articles/java-interrupt-mechanism)
+* [Java 安全模型介绍](https://www.ibm.com/developerworks/cn/java/j-lo-javasecurity/)
 
 ##前端相关
 
