@@ -18,6 +18,8 @@
 * [多态在 Java 和 C++ 编程语言中的实现比较](https://www.ibm.com/developerworks/cn/java/j-lo-polymorph/)
 * [详细分析Java中断机制](http://www.infoq.com/cn/articles/java-interrupt-mechanism)
 * [Java 安全模型介绍](https://www.ibm.com/developerworks/cn/java/j-lo-javasecurity/)
+* [The java.util.concurrent Synchronizer Framework 中文翻译版](http://ifeve.com/aqs/)
+* [fork join相关](http://ifeve.com/tag/fork-join/)
 
 ##前端相关
 
