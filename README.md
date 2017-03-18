@@ -19,6 +19,9 @@
 * [详细分析Java中断机制](http://www.infoq.com/cn/articles/java-interrupt-mechanism)
 * [Java 安全模型介绍](https://www.ibm.com/developerworks/cn/java/j-lo-javasecurity/)
 * [The java.util.concurrent Synchronizer Framework 中文翻译版](http://ifeve.com/aqs/)
+  * [背景与需求](http://ifeve.com/aqs-1/)
+  * [设计与实现](http://ifeve.com/aqs-2/)
+  * [使用、性能与总结](http://ifeve.com/aqs-3/)
 * [fork join相关](http://ifeve.com/tag/fork-join/)
 
 ## 前端相关
