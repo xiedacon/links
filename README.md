@@ -10,7 +10,7 @@
   - [读书](#读书)
 
 
-##java
+## java
 
 * [Why does Java have transient fields?](http://stackoverflow.com/questions/910374/why-does-java-have-transient-fields)
 * [如何做到招聘要求中的「要有扎实的 Java 基础」](http://blog.jobbole.com/106818/)
@@ -21,9 +21,9 @@
 * [The java.util.concurrent Synchronizer Framework 中文翻译版](http://ifeve.com/aqs/)
 * [fork join相关](http://ifeve.com/tag/fork-join/)
 
-##前端相关
+## 前端相关
 
-####js
+#### js
 
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
 * [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks)
@@ -33,7 +33,7 @@
 * [写给Android/Java开发者的JavaScript精解(2)](http://www.jianshu.com/p/1a0ae94fd592)
 * [写给Android/Java开发者的JavaScript精解(3)](http://www.jianshu.com/p/6e71ea7d769b)
 
-####css
+#### css
 
 * [什么鬼，又不知道怎么命名class了](http://imweb.io/topic/5623c25734764b2c16769749?utm_source=jijiangshe)
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines)
@@ -42,7 +42,7 @@
 * [淘宝弹性布局方案lib-flexible实践](http://www.cnblogs.com/lyzg/p/5058356.html)
 * [基于淘宝弹性布局方案lib-flexible的问题研究](http://www.cnblogs.com/lyzg/p/5117324.html)
 
-####其它
+#### 其它
 
 * [为什么说DOM操作很慢](https://leozdgao.me/why-dom-slow/)
 * [移动前端—图片压缩上传实践](http://www.cnblogs.com/axes/p/4603984.html)
@@ -52,17 +52,17 @@
 * [自适应网页设计（Responsive Web Design）](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
 * [前端进化史：从「自适应」到「响应式」](https://segmentfault.com/a/1190000000355077)
 
-##Linux
+## Linux
 
 - [Ubuntu、Windows双系统安装指南](http://www.jianshu.com/p/48d2badffb4f)
 - [linux软件安装方法总结(linux软件包管理)](http://www.dabu.info/linux-software-installation-methods-linux-package-management.html)
 - [全栈必备：Linux 基础](http://blog.jobbole.com/106827/)
 
-##正则表达式
+## 正则表达式
 
 * [javascript正则表达式](http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html)
 
-##长文
+## 长文
 
 * [关于内存，每个程序员必知](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [关于浮点运算的每个计算机科学家必知](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
@@ -76,7 +76,7 @@
 * [程序员都应该了解哪些安全知识](http://blog.jobbole.com/16240/)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
-##杂七杂八
+## 杂七杂八
 
 * [面向对象编程的弊端是什么？](https://www.zhihu.com/question/20275578/answer/26577791?group_id=752158336673132544)
 * [从0到1起步-跟我进入堆外内存的奇妙世界](http://blog.jobbole.com/107640/)
@@ -86,21 +86,21 @@
 * [刨根问底 HTTP 和 WebSocket 协议（上）](http://blog.jobbole.com/105953/)
 * [刨根问底 HTTP 和 WebSocket 协议（下）](http://blog.jobbole.com/105958/)
 
-####OAuth
+#### OAuth
 
 - [帮你深入理解OAuth2.0协议](https://my.oschina.net/oscfox/blog/201241)
 - [OAuth2.0](http://www.cnblogs.com/AngelLee2009/p/3575835.html)
 - [OAUTH协议简介及其使用场景介绍](http://blog.csdn.net/fenglibing/article/details/6957493)
 
-####maven
+#### maven
 
 - [Maven 核心原理](http://blog.jobbole.com/107576/)
 
-####git
+#### git
 
 - [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-##读书
+## 读书
 
 * [一个合格的程序员应该读过哪些书](http://justjavac.com/other/2012/05/15/qualified-programmer-should-read-what-books.html)
